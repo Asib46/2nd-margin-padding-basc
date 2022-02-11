@@ -1,0 +1,49 @@
+.white{
+    border: 7px solid indigo;
+    border-radius:20px;
+    margin: 80px 5px 8px 7px;
+    text-align: center;
+    width: 30%;
+    display: inline-block;
+}
+
+.blog{
+    font-size: 30px;
+    border: 20px solid rgb(49, 3, 3);
+    margin: 40px 1px;
+    text-align: right;
+
+    width: 30%;
+    float: left;
+}
+.ig{
+    font-size: 30px;
+    border: 2px dotted red;
+    margin: 40px 20px;
+    text-align: justify;
+    font-weight: 700;
+    width: 45%;
+}
+.igg{
+    font-size: 30px;
+    border: 2px dotted red;
+    margin: 40px 20px;
+    font-weight: 700;
+    width: 45%;
+    
+}
+#green{
+    font-size: 30px;
+    border: 5px dashed red;
+    border-radius: 20px;
+    margin-left: 80px ;
+    padding: 20px 60px;
+}
+.red{
+    border: 5px solid blue;
+    width: 500px;
+    height: 100px;
+    margin: 50px;
+    padding-top: 20px;
+    padding-left: 10px;
+}
